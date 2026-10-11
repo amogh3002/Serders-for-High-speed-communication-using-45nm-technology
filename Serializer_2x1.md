@@ -19,7 +19,14 @@ Serializer_2x1 Testbench
 
 <img width="1306" height="783" alt="image" src="https://github.com/user-attachments/assets/8b500f74-0007-4422-acb6-ca589888ce5d" />
 
-Output Waveform
+PreLayout simulation
 
 <img width="1372" height="798" alt="image" src="https://github.com/user-attachments/assets/a4ab8ce1-7854-49f2-8f5d-5677c7febed0" />
+
+Layout of Serializer_2x1
+
+<img width="1165" height="684" alt="image" src="https://github.com/user-attachments/assets/ba8316f5-0e9d-4d9e-a617-474f113656a7" />
+
+
+
 
