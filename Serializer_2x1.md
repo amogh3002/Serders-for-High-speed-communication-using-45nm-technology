@@ -11,5 +11,6 @@ The basic circuit consists of:
 - Clock (CLK): Controls when the input data is captured.
 
 The MUX output is given by:
+
 <img width="258" height="54" alt="image" src="https://github.com/user-attachments/assets/9c371e23-0ec1-4fc7-9e62-0286ec029aa0" />
 
